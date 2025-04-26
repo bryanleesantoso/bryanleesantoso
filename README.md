@@ -3,5 +3,4 @@
 - 🌱 Learning NextJs, React, and Devops
 - 👯 Looking to collaborate & contribute on impactful projects
 - 📫 Drop an email to bryanleesantoso@gmail.com !
-- ⚡Hobbies: Volleyball, Soccer, Gym, Eating
-
+- ⚡Hobbies: Volleyball, Soccer, Fitness, Foodie
